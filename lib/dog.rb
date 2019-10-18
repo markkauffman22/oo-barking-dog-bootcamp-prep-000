@@ -5,6 +5,6 @@ class Dog
   end
   
   def name  # Getter
-    @ name = new_name
+
   
 end  
